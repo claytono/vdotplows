@@ -4,3 +4,7 @@ default, but that this Chrome extension enables.  It allows access to more
 information about the trucks, forcing a refresh, changing the default
 refresh time and more.
 
+To use this in Chrome, you need to go into the Extensions menu
+(chrome://extensions) and load this directory with the "Load unpacked
+extension..." option.
+
