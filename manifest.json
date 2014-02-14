@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "content_scripts": [ {
+        "exclude_globs": [ ],
+        "include_globs": [ "*" ],
+        "js": [ "jquery.js", "vdotplows.user.js" ],
+        "matches": [ "http://vdotplows.org/*" ]
+    }],
+    "name": "VDOT Plows Advanced",
+    "description": "Enable advanced features on VDOT's snow plow page",
+    "version": "1.0.0"
+}
